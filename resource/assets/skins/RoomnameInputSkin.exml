@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="RoomnameInputSkin" width="600" height="600" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="munebg_png" scale9Grid="45,67,139,91" width="600" height="600" verticalCenter="0" horizontalCenter="0" locked="true"/>
+
+	<e:Image id="back_btn" source="fanhui_png" x="50" y="50"/>
+	<e:Image id="ok_btn" source="ok_btn_png" top="350" horizontalCenter="0"/>
+	<e:TextInput id="name_input" skinName="TextInputSkin" prompt="请输入房间名称" top="150" horizontalCenter="0" width="500" height="50"/>
+	<e:TextInput id="screat_input" skinName="TextInputSkin" prompt="请输入密码" displayAsPassword="true" top="250" horizontalCenter="0" width="500" height="50"/>
+</e:Skin>
