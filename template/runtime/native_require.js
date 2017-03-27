@@ -34,7 +34,7 @@ var game_file_list = [
 	"bin-debug/core/view/fight/FightPauseUI.js",
 	"bin-debug/core/view/fight/FightResult.js",
 	"bin-debug/core/view/fight/GemView.js",
-	"bin-debug/core/view/fight/SoldierListView.js",
+	"bin-debug/AssetAdapter.js",
 	"bin-debug/core/view/fight/SoldierView.js",
 	"bin-debug/core/view/fight/WallView.js",
 	"bin-debug/core/event/MyUIEvent.js",
@@ -65,7 +65,7 @@ var game_file_list = [
 	"bin-debug/core/command/HttpCommand.js",
 	"bin-debug/ThemeAdapter.js",
 	"bin-debug/Main.js",
-	"bin-debug/AssetAdapter.js",
+	"bin-debug/core/view/fight/SoldierListView.js",
 	//----auto game_file_list end----
 ];
 
